@@ -38,10 +38,8 @@
 
 Метрики моделей на тестовой выборке:
 
-sMAPE этапа флотации = 8.11
-
-sMAPE финального этапа = 8.79
-
+sMAPE этапа флотации = 8.11   
+sMAPE финального этапа = 8.79  
 **Итоговая sMAPE = 8.62**
 
 Гиперпараметры итоговых моделей:
@@ -81,7 +79,7 @@ sMAPE финального этапа = 8.79
 
 Визуализация важности характеристик:
 
-![rougher_top5](https://github.com/ArtemV0ronin/gold_recovery_prediction/blob/main/media/feature_importances_rougher_top5.jpg)
+![rougher_top5](hhttps://github.com/ArtemV0ronin/gold_recovery_prediction/blob/main/media/feature_importances_rougher_top_5.jpg)
 
 ![final](https://github.com/ArtemV0ronin/gold_recovery_prediction/blob/main/media/feature_importances_final.jpg)
 
