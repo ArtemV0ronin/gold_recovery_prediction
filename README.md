@@ -1,5 +1,6 @@
 # Предсказание коэффициента восстановления золота из золотосодержащей руды
-Ноутбук проекта находится в файле [gold_recovery_prediction.ipynb](https://github.com/ArtemV0ronin/gold_recovery_prediction/blob/main/gold_recovery_prediction.ipynb)
+Ноутбук проекта находится в файле [gold_recovery_prediction.ipynb](https://github.com/ArtemV0ronin/gold_recovery_prediction/blob/main/gold_recovery_prediction.ipynb)  
+Альтернативная [ссылка](https://drive.google.com/file/d/1bICdQ9W_yFPJjbaUXMnmTPGtKblYwNie/view?usp=sharing) на Google Collab.
 
 ## Задача проекта
 Компания «Цифры», разрабатывающая решения для эффективной работы промышленных предприятий, предоставила реальные данные с параметрами добычи и очистки золотосодержащей руды с одного из месторождений. Необходимо на основании этих данных подготовить прототип модели машинного обучения для предсказния коэффициента восстановления золота из золотосодержащей руды. Это поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
